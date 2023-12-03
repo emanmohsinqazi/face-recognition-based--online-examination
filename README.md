@@ -30,7 +30,7 @@ to run the java frame you need JRE(Java Runtime Environement) the extention of t
 
 ![](cap2.PNG)
 
-- you can store the names attendance in csv file or store it in database(sqlite) as you like , the details in the video below
+
 
 
 
